@@ -1,5 +1,5 @@
 # Data-Structure-and-Algorithms
 
-Data Structures and Algorithms in Python
-
-1. Arrays
+1. Linked List
+   - Basics
+   - Singly Linked List
