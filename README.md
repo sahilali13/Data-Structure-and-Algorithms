@@ -13,12 +13,29 @@
         - Two numbers are represented as a linked list, where digits are stored in reverse order. Add the two number and the represent it as a linked list
         - Given two singly linked list return the intersecting node
 2. Stack
-    - Using Python List with no size limit
-    - Using Python List with size limit
-    - Using Linked List
+    - Basics
+        - Using Python List with no size limit
+        - Using Python List with size limit
+        - Using Linked List
     - Questions
+        - Use Single List to implement multiple stacks
+        - Create stack having min method
+        - Create a set of stacks
+        - Create a queue using stacks
 3. Queue
-    - Using Python List with no size limit
-    - Circular Queue (Python List with size limit)
-    - Using Linked List
+    - Basics
+        - Using Python List with no size limit
+        - Circular Queue (Python List with size limit)
+        - Using Linked List
     - Questions
+        - Animal Shelter - Cat and Dog
+4. Recursion
+    - Basics
+        - Factorial of a number
+        - nth Fibonacci number
+        - Find max of an array
+    - Questions
+        - Sum of digits
+        - Power of a number
+        - GCD
+        - Convert decimal to binary
