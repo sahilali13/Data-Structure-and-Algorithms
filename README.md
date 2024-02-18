@@ -39,3 +39,6 @@
         - Power of a number
         - GCD
         - Convert decimal to binary
+5. Tree
+    - Basic Tree
+    - Binary Tree
