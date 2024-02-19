@@ -42,3 +42,4 @@
 5. Tree
     - Basic Tree
     - Binary Tree
+    - Binary Search Tree
