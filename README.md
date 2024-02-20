@@ -43,3 +43,5 @@
     - Basic Tree
     - Binary Tree
     - Binary Search Tree
+    - AVL
+6. Heap
