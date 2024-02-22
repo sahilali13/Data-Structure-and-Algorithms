@@ -44,4 +44,14 @@
     - Binary Tree
     - Binary Search Tree
     - AVL
-6. Heap
+    - Heap
+    - Trie
+6. Sorting
+    - Basic
+        - Bubble
+        - Selection
+        - Insert
+        - Bucket
+        - Merge
+        - Quick
+        - Heap
