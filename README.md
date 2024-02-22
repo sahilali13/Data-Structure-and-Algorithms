@@ -47,7 +47,7 @@
     - Heap
     - Trie
 6. Sorting
-    - Basic
+    - Basics
         - Bubble
         - Selection
         - Insert
@@ -55,3 +55,7 @@
         - Merge
         - Quick
         - Heap
+7. Search
+    - Basics
+        - Linear
+        - Binary
