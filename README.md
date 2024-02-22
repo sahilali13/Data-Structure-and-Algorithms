@@ -59,3 +59,5 @@
     - Basics
         - Linear
         - Binary
+8. Graph
+    - Basics
