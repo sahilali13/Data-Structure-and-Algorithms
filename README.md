@@ -61,3 +61,7 @@
         - Binary
 8. Graph
     - Basics
+    - Topological Sort
+    - Single Source Shortest Path
+        - BFS
+        - Dijkstra's Algorithm
