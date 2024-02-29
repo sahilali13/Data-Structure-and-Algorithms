@@ -65,3 +65,4 @@
     - Single Source Shortest Path
         - BFS
         - Dijkstra's Algorithm
+        - Bellman Ford Algorithm
