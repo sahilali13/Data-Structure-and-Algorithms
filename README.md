@@ -66,3 +66,5 @@
         - BFS
         - Dijkstra's Algorithm
         - Bellman Ford Algorithm
+    - All Pair Shortest Path
+        - Floyd Warshall Algorithm
