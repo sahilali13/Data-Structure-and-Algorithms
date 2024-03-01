@@ -68,3 +68,6 @@
         - Bellman Ford Algorithm
     - All Pair Shortest Path
         - Floyd Warshall Algorithm
+    - Minimum Spanning Tree
+        - Kruskal's Algorithm
+        - Prim's Algorithm
