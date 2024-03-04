@@ -72,3 +72,8 @@
         - Kruskal's Algorithm
         - Prim's Algorithm
     - Questions
+9. Algorithms
+    - Greedy
+        - Activity Selection
+        - Coin Change
+        - Fractional Knapsack
