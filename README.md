@@ -77,3 +77,12 @@
         - Activity Selection
         - Coin Change
         - Fractional Knapsack
+    - Divide and Conquer
+        - Number Factor
+        - House Robber
+        - Convert String
+        - Zero One Knapsack
+        - Longest Common Subsequence
+        - Longest Palindromic Subsequence
+        - Minimum cost to last cell
+        - No. of paths to last cell
